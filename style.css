@@ -1,0 +1,13 @@
+.header {
+    text-align: center;
+}
+
+.title,#links {
+    background-color: green;
+    color: white; 
+}
+
+.smheader {
+    background-color: white;
+    color: green;
+}
